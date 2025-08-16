@@ -30,6 +30,3 @@ SwiftUI iOS app that tracks workouts and recommends new ones using a Core ML rec
 ## Notes
 - Workout IDs in the CSV **must match** `WorkoutCatalog.swift`.
 - New workouts require retraining to be ranked by ML.
-
-## License
-MIT (or your choice)
